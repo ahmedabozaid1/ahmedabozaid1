@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahmedabozaid1
-- 👀 I’m interested in web and mobile apps and image processing
-- 🌱 I’m currently learning full stack web app development
-- 💞️ I’m looking to collaborate on web app projects
+- 👋 Hi, I’m @ahmedabozaid1 computer Science Graduate (MSA, Greenwich University)
+- 🌱 I’m currently Working as a FullStack Engineer
+- 👀 I’m interested in web development and image processing
+- 💞️ I’m looking to collaborate on web app projects and Deep Learning projects
 - 📫 How to reach me ahmed.abozaid128@gmail.com
 
 <!---
