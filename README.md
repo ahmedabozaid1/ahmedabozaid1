@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedabozaid1 computer Science Graduate (MSA, Greenwich University)
+- 👋 Hi, I’m @ahmedabozaid1 computer Science Graduate (MSA Uni, Uni of Greenwich)
 - 🌱 I’m currently Working as a FullStack Engineer
 - 👀 I’m interested in web development and image processing
 - 💞️ I’m looking to collaborate on web app projects and Deep Learning projects
